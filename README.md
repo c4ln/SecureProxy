@@ -1,7 +1,7 @@
 # SecureProxy
 Robust Reverse Proxy with IP Blocking and HTTPS Encryption
 
-"Advanced Web Application Security and Performance Enhancement Tool
+Advanced Web Application Security and Performance Enhancement Tool
 
 A feature-rich reverse proxy server written in Go.
 
