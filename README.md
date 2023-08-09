@@ -19,3 +19,8 @@ A feature-rich reverse proxy server written in Go.
 
 - **Periodic IP Updates:** Updated with the latest threat intelligence feeds and honeypot lists, ensuring your system is well-informed and protected.
 
+- **SOCKS5 Proxy Support:** Supports proxying connections using SOCKS5 for .onion domains.
+
+- **HTTP to HTTPS Redirect:** Automatically redirects HTTP traffic to HTTPS for improved security.
+
+- **Rate Limiting:** Uses rate limiting to control incoming connections.
